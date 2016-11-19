@@ -98,8 +98,6 @@ public class WuziqiPanel extends View
         /* 使棋子的大小能适合屏幕和画布*/
         mwhitepiece = Bitmap.createScaledBitmap(mwhitepiece,pieceWidth,pieceWidth,false);
         mBlackPiece = Bitmap.createScaledBitmap(mBlackPiece,pieceWidth,pieceWidth,false);
-
-
     }
 
     @Override  /* 捕获用户的手势，实现下棋的操作*/
