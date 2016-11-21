@@ -1,19 +1,22 @@
 package com.liuzq.dmego.myapplication.ativity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.content.Intent;
+
 import com.liuzq.dmego.myapplication.R;
 
 /**
  * Created by dmego on 16-11-16.
  */
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity
+{
     private WuziqiPanel wuziqiPanel;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         wuziqiPanel = (WuziqiPanel) findViewById(R.id.id_liuziq);
-    }
 
+    }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 

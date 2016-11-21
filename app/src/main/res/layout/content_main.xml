@@ -16,6 +16,15 @@
         android:layout_centerInParent="true"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-    /*设置宽度高度*/
 
+    /*设置宽度高度*/
+    <ImageView
+        android:id="@+id/iv_which_turn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_above="@+id/id_liuziq"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        />
 </RelativeLayout>

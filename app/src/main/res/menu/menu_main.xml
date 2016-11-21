@@ -1,5 +1,4 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.liuzq.dmego.myapplication.ativity.MainActivity">
     <item
@@ -12,5 +11,6 @@
         android:title="关于"
         android:orderInCategory="103"
         android:showAsAction="never" />
+
 
 </menu>
