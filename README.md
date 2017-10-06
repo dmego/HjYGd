@@ -20,7 +20,7 @@ Android Studio + Deepin(深度操作系统)
       * 1．自定义View
       * 2．实现view的存储与恢复
       * 3．使用intent实现Activity间的切换
-      
+
 ### 亮点：
 
 本App的设计简单，目的明确——两人对战五子棋游戏，棋子一改单一的黑棋与白棋，
@@ -28,9 +28,19 @@ Android Studio + Deepin(深度操作系统)
 本App设计之初是想到同学们有时候会在课间休息的时候下五子棋，于是想到直接两人在手机上下棋，
 不需要复杂绚丽的界面，简简单单的就行。
 ### Android UI:
-<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png" style="width: 50px;">
-<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" style="width: 50px;">
-<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" style="width: 50px;">
+<div style="float:left;border:solid 1px 000;margin:2px;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png" style="width:300px; float:left">
+</div>
+<div style="float:left;border:solid 1px 000;margin:2px;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" style="width: 300px; float:left;display:inline-block;">
+</div>
+<div style="float:left;border:solid 1px 000;margin:2px;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" style="width: 300px; float:left;display:inline-block;">
+</div>
+
+
+
+
 ### 开发历史：
 
 项目的开发都是利用本人的业余时间，因此进度并没有太快。
@@ -39,7 +49,7 @@ Android Studio + Deepin(深度操作系统)
     * 2.[2016/11/17]输赢算法判断的实现，添加落子声音
     * 3.[2016/11/18]使用intent实现activity间切换
     * 4.[2016/11/19]实现显示轮到谁下棋（失败）
-    
+
 ### 参考：
   安卓开发慕课网教程。  
   [CSDN博客](http://blog.csdn.net/baidu_33714003/article/details/50944940) 
