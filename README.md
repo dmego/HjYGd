@@ -35,9 +35,8 @@ Android Studio + Deepin(深度操作系统)
 <div style="float:left;border:solid 1px 000;margin:2px;">
 <img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" width="250" />
 </div>
-<div style="float:left;border:solid 1px 000;margin:2px;">
 <img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" width="250" />
-</div>
+
 
 ### 开发历史：
 
