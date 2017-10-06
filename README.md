@@ -27,6 +27,7 @@ Android Studio + Deepin(深度操作系统)
 用当下非常流行的表情当做棋子，滑稽的表情给用户带来新鲜感和快乐感；
 本App设计之初是想到同学们有时候会在课间休息的时候下五子棋，于是想到直接两人在手机上下棋，
 不需要复杂绚丽的界面，简简单单的就行。
+
 ### Android UI:
 <div style="float:left;border:solid 1px 000;margin:2px;">
 <img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png" width="250" />
@@ -37,9 +38,6 @@ Android Studio + Deepin(深度操作系统)
 <div style="float:left;border:solid 1px 000;margin:2px;">
 <img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" width="250" />
 </div>
-
-
-
 
 ### 开发历史：
 
