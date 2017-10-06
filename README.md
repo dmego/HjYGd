@@ -29,13 +29,13 @@ Android Studio + Deepin(深度操作系统)
 不需要复杂绚丽的界面，简简单单的就行。
 ### Android UI:
 <div style="float:left;border:solid 1px 000;margin:2px;">
-<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png" style="width:300px; float:left">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png" width="250" />
 </div>
 <div style="float:left;border:solid 1px 000;margin:2px;">
-<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" style="width: 300px; float:left;display:inline-block;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" width="250" />
 </div>
 <div style="float:left;border:solid 1px 000;margin:2px;">
-<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" style="width: 300px; float:left;display:inline-block;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" width="250" />
 </div>
 
 
