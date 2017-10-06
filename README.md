@@ -28,10 +28,9 @@ Android Studio + Deepin(深度操作系统)
 本App设计之初是想到同学们有时候会在课间休息的时候下五子棋，于是想到直接两人在手机上下棋，
 不需要复杂绚丽的界面，简简单单的就行。
 ### Android UI:
-
-![](http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png)
-![](http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png)
-![](http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png)
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120000954763-233180565.png" style="width: 50px;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" style="width: 50px;">
+<img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" style="width: 50px;">
 ### 开发历史：
 
 项目的开发都是利用本人的业余时间，因此进度并没有太快。
