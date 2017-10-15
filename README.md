@@ -34,6 +34,7 @@ Android Studio + Deepin(深度操作系统)
 <img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001006170-206478981.png" width="250" />
 <img src="http://images2015.cnblogs.com/blog/1026866/201611/1026866-20161120001018404-1422224272.png" width="250" />
 </div>
+
 ### 开发历史：
 
 项目的开发都是利用本人的业余时间，因此进度并没有太快。
